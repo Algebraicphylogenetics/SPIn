@@ -1,7 +1,7 @@
 # SPIn 
  
-## To compile 
-## g++ -Wno-deprecated SPIn_main.cpp -o SPIn
+* To compile 
+ g++ -Wno-deprecated SPIn_main.cpp -o SPIn
 
 
 
