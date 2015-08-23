@@ -3,7 +3,7 @@
 * To compile 
  g++ -Wno-deprecated SPIn_main.cpp -o SPIn
 
-To run run simply call the executive and follow the instructions.
+To run run simply call the executable and follow the instructions.
 
 A. M. Kedzierska, M. Drton, R. Guigo and M. Casanellas, "SPIn: model selection for phylogenetic mixtures via linear invariants." (Mol. Biol. Evol., 29(3): 929-937, 2012)
 
