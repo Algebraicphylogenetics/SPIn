@@ -19,3 +19,9 @@ This release of the software uses the Akaike Information Criterion (AICc) to sco
 The best-fit model minimizes the AICc score. 
 
 In addition, the output reports the weights of support for each of the model and an upper bound on the number of mixtures, above which the non-identifiability of the parameters (both continuous and discrete) holds.
+
+
+Online version: http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgModelSelection.pl
+Data used for tests: http://genome.crg.es/phylo_mod/DATA_SPIn/
+
+###NOTE: the code is undergoing modularity revamp and will be available very soon!
