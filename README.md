@@ -3,7 +3,7 @@
 * To compile 
  g++ -Wno-deprecated SPIn_main.cpp -o SPIn
 
-
+To run run simply call the executive and follow the instructions.
 
 A. M. Kedzierska, M. Drton, R. Guigo and M. Casanellas, "SPIn: model selection for phylogenetic mixtures via linear invariants." (Mol. Biol. Evol., 29(3): 929-937, 2012)
 
@@ -21,7 +21,7 @@ The best-fit model minimizes the AICc score.
 In addition, the output reports the weights of support for each of the model and an upper bound on the number of mixtures, above which the non-identifiability of the parameters (both continuous and discrete) holds.
 
 
-Online version: http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgModelSelection.pl
-Data used for tests: http://genome.crg.es/phylo_mod/DATA_SPIn/
+Online version: http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgModelSelection.pl \\
+Data used for Grid Search tests in the SPIn paper: http://genome.crg.es/phylo_mod/DATA_SPIn/
 
 ###NOTE: the code is undergoing modularity revamp and will be available very soon!
