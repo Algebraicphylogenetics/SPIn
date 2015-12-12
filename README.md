@@ -33,3 +33,5 @@ For theory on this and related algebraic methods see:
 [SPIn]: <http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgModelSelection.pl>
 [fasta format]: <http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml>
 [grid search]: <http://genome.crg.es/phylo_mod/DATA_SPIn/>
+
+<sub> *This is a free software and it can be redistributed, modified or else as given by the terms of the GNU General Public License.* </sub>
