@@ -13,7 +13,7 @@
 $ g++ -Wno-deprecated SPIn_main.cpp -o SPIn
 ```
 
-To run simply call the executable and follow given instructions.
+To run, simply call the executable *./SPIn* and follow given instructions.
 
 *Input*: multiple sequence alignment in [fasta format]. 
 ### Notes
