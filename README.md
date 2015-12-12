@@ -24,7 +24,7 @@ Currently, maximum number of OUTs is 21 and sequence length < 10^6 bp, and uses 
 ### Publications
 >A. M. Kedzierska, M. Drton, R. Guigo and M. Casanellas, "SPIn: model selection for phylogenetic mixtures via linear invariants." (Mol. Biol. Evol., 29(3): 929-937, 2012)
 
-For theory on this and related algebraic method see:
+For theory on this and related algebraic methods see:
 * Casanellas M., Fernandez-Sanchez J. and Kedzierska A. M.: "The space of phylogenetic mixtures of equivariant models" (Algorithms for Molecular Biology,
 2012, 7:33)
 * Kedzierska A.M. and Casanellas M.: “ GenNon-h: Simulating multiple sequence alignments under the nonhomogeneous dna models." (BMC Bioinformatics 2012, 13:216)
