@@ -15,7 +15,7 @@ $ g++ -Wno-deprecated SPIn_main.cpp -o SPIn
 
 To run, simply call the executable *./SPIn* and follow the given instructions.
 
-*Input* must be a multiple sequence alignment *[fasta format]). 
+*Input* must be a multiple sequence alignment ([fasta format]). 
 
 ### Notes
 Current implementation is limited by the maximum number of OUTs of 21, sequence length < 10^6 bp and it uses the Akaike Information Criterion (AICc) to score the models. The output contains the weights of support for each of the model and an upper bound on the number of mixtures for which the parameters (both continuous and discrete) are identifiable. Supported evolutionary models are the non-homogeneous Kimura 2-paramater (K80*),  Kimura 3-parameter (K81*), Jukes-Cantor (JC69*) and the Strand Symmetric Model (SMM)
