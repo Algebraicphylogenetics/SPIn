@@ -20,18 +20,19 @@ To run, simply call the executable *./SPIn* and follow the given instructions.
 ### Notes
 Current implementation is limited by the maximum number of OUTs of 21, sequence length < 10^6 bp and it uses the Akaike Information Criterion (AICc) to score the models. The output contains the weights of support for each of the model and an upper bound on the number of mixtures for which the parameters (both continuous and discrete) are identifiable. Supported evolutionary models are the non-homogeneous Kimura 2-paramater (K80*),  Kimura 3-parameter (K81*), Jukes-Cantor (JC69*) and the Strand Symmetric Model (SMM)
 
-### Data from the paper: [grid search]
-
 ### Publications
 >A. M. Kedzierska, M. Drton, R. Guigo and M. Casanellas, "SPIn: model selection for phylogenetic mixtures via linear invariants." (Mol. Biol. Evol., 29(3): 929-937, 2012)
 
-Theory underlying SPIn: 
-* Casanellas M., Fernandez-Sanchez J. and Kedzierska A. M.: "The space of phylogenetic mixtures of equivariant models" (Algorithms for Molecular Biology,
+Data from the paper: [grid search]
+
+
+#### Theory underlying SPIn: 
+> Casanellas M., Fernandez-Sanchez J. and Kedzierska A. M.: "The space of phylogenetic mixtures of equivariant models" (Algorithms for Molecular Biology,
 2012, 7:33)
 
-Complementary methodologies and their implementations:
-* Kedzierska A.M. and Casanellas M.: “ GenNon-h: Simulating multiple sequence alignments under the nonhomogeneous dna models." (BMC Bioinformatics 2012, 13:216)
-*  Kedzierska A.M. and Casanellas M.: “EM for parameter estimation of Markov models on trees” (revision).
+####Complementary methodologies and their implementations:
+> Kedzierska A.M. and Casanellas M.: “ GenNon-h: Simulating multiple sequence alignments under the nonhomogeneous dna models." (BMC Bioinformatics 2012, 13:216)
+>  Kedzierska A.M. and Casanellas M.: “EM for parameter estimation of Markov models on trees” (revision).
 
 [SPIn]: <http://genome.crg.es/cgi-bin/phylo_mod_sel/AlgModelSelection.pl>
 [fasta format]: <http://blast.ncbi.nlm.nih.gov/blastcgihelp.shtml>
